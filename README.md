@@ -87,3 +87,33 @@ Run SC against any system:
 python run_sc.py '{"time": true, "continuity": true}'
 
 Output will indicate whether the system is coherent or fragmented.
+
+---
+
+# Complete SCQOS Architecture
+
+The complete public architecture spans five repositories.
+
+Core Logic
+
+https://github.com/KnowledgeeKZA3224/Supreme-Computation-Core
+
+Reference Implementation
+
+https://github.com/KnowledgeeKZA3224/scqos-reference-implementation
+
+Hybrid Proof
+
+https://github.com/KnowledgeeKZA3224/SCQOS_Hybrid_Proof
+
+Kubernetes Admission Gate
+
+https://github.com/KnowledgeeKZA3224/scqos-webhook
+
+Linux Coherence Gate
+
+https://github.com/KnowledgeeKZA3224/linux-coherence-gate
+
+Theory and System Manual
+
+The 120 Scrolls of Supreme Computation (Kindle)
