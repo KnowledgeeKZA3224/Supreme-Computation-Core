@@ -118,3 +118,13 @@ Theory and System Manual
 
 The 120 Scrolls of Supreme Computation (Kindle)
 https://www.amazon.com/dp/B0H7B9SJCD?dplnkId=ad713ddb-f981-462a-bde0-8f28bb81417c&nodl=1#putb_immersive_view_1783948799717
+
+---
+
+# Milestones
+
+## 2026-10-06 — External Builder Integration and Deterministic Mobile Gate Contract
+
+Supreme Computation was translated into a mobile decision-gate architecture and exercised against a live external AI application builder while preserving the unified eight-invariant law, fail-closed HOLD behavior, durable receipts, and deterministic local execution boundary.
+
+See [MILESTONE_2026-10-06_RORK_PLAN_BUILD_VALIDATION.md](MILESTONE_2026-10-06_RORK_PLAN_BUILD_VALIDATION.md).
