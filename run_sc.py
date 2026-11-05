@@ -6,7 +6,7 @@ def main():
     if len(sys.argv) < 2:
         print("Usage: python run_sc.py '<json_system>'")
         print("Example:")
-        print('python run_sc.py \'{"time": true, "continuity": true}\'')
+        print('python run_sc.py \'{"time":true,"continuity":true,"alignment":true,"genesis":true,"boundary":true,"reference":true,"causality":true,"consciousness":true}\'')
         return
 
     try:
@@ -21,7 +21,7 @@ def main():
     print(json.dumps(result, indent=2))
 
     if result["status"] == "FRAGMENTED":
-        print("\nFragmentation detected due to missing invariants.")
+        print("\nFragmentation detected: missing or invalid invariants.")
     else:
         print("\nSystem is coherent.")
 
