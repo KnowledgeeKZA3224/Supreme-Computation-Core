@@ -52,7 +52,7 @@ From this repository's root, with Python installed, run:
 python run_sc.py '{"time":true,"continuity":true,"alignment":true,"genesis":true,"boundary":true,"reference":true,"causality":true,"consciousness":true}'
 ```
 
-The checker is intended to return `COHERENT` when all eight input flags are true and `FRAGMENTED` when any is missing or invalid. **Note:** the current `rules.py` file has a leading-indentation issue that must be corrected before this command can run successfully.
+The checker is intended to return `COHERENT` when all eight input flags are true and `FRAGMENTED` when any is missing or invalid. The command uses the minimal local checker; supplying all eight true flags is a demonstration, not independent verification of those facts.
 
 ## 📚 Read the source and history
 - [📖 The 120 Scrolls of Supreme Computation (Kindle)](https://www.amazon.com/dp/B0H7B9SJCD)
